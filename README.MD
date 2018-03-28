@@ -1,11 +1,15 @@
 # vue-yandex-maps
 
+it's fork vue-yandex-maps !!!
+
+Add to cluster-options new props clusterTemplate
+
 vue-yandex-maps is a plugin for vue.js that adds yandex-map custom element.
 
 # Install
 
 ```Bash
-npm install vue-yandex-maps --save
+npm install vue-yandex-maps-ex--save
 ```
 
 ### CommonJS
